@@ -1,0 +1,44 @@
+
+Nama 		: Sindhu Bairewi
+NIM		: 131112012
+Kelas		: TP-A (Pagi)
+
+•	Apakah anda setuju dengan pendapat Turing?
+     Saya setuju dengan pendapat turing. Sebuah mesin,dapat melakukan hal-hal yang dapat dilakukan orang dalam sehari-hari. Mesin dapat berpikir layaknya seperti manusia dan  juga harus mengerti cara mengenal pola yang ada. Mesin tersebut bisa dilakukan dengan satu komputer digital, tidak perlu dengan merancang mesin baru untuk melakukan berbagai komputasi. sesuai diprogram untuk setiap kasus. Komputer digital dibangun sesuai dengan prinsip-prinsip yang telah ada dijelaskan, dan dapat meniru tindakan komputer manusia dengan baik.
+
+•	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat/
+     Besar kemungkinan akan muncul teknologi - teknologi baru yang akan dibuat sesuai dengan kebutuhan manusia sekarang ini dan akan terus dikembangkan lagi. Suatu saat mesin akan mampu melewati tes turing meskipun dalam waktu yang cukup panjang, Untuk melewati tes tersebut, sebuah komputer harus memiliki kemampuan pengolahan bahasa alami, knowledge representation, automated reasoning, dan machine learning. Penelitian akan dilakukan terus menerus dan pada akhirnya orang akan menciptakan kecerdasan buatan yang lebih cerdas dengan implikasi mengejutkan.
+
+
+•	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+
+     Jika seseorang ingin membuat sebuah mesin meniru perilaku komputer manusia dalam beberapa operasi yang kompleks kita harus bertanya kepadanya bagaimana hal itu dilakukan, dan kemudian menerjemahkan jawabannya ke dalam bentuk tabel instruksi. Membangun tabel instruksi biasanya digambarkan sebagai "pemrograman.".Halangan untuk melewati tes turing adalah komputer belum bisa menerapkan sifat manusiawi sepenuhnya seperti manusia. Bahasa juga merupakan penghalang untuk melewati tes turing. Bahasa yang digunakan juga belum alami dan dibatasi, sedangkan suatu sistem harus benar – benar  mengerti bahasa lebih manusiawi. 
+
+
+Istilah Pada Bidang AI Dan Contoh Implementasinya
+
+1.	Pengolahan Bahasa Alami
+    Pengolahan Bahasa Alami merupakan salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris.  Contoh implementasinya seperti  aplikasi  translator yang menerjemahkan satu bahasa ke bahasa lainnya, misalnya bahasa Indonesia ke bahasa Mandarin.
+
+2.	Knowledge Representation
+      Knowledge Representation adalah pengetahuan yang penting untuk memperoleh pengertian, memformulasikan, dan memecahkan masalah. Knowledge Representation memuat fakta-fakta mengenai area masalah, dan teknik menerangkan masalah yang menjelaskan bagaimana fakta-fakta tersebut cocok satu dengan yang lain dalam urutan yang logis. Bahasa representasi harus dapat membuat seorang pemrogram mampu mengekspresikan pengetahuan yang diperlukan untuk mendapatkan solusi permasalahan. Entiti dari Knowledge Representation yaitu ;
+      	Fakta ; adalah kejadian sebenarnya. Fakta inilah yang akan kita representasikan.
+      	Representasi dari fakta bagaimana cara untuk memodelkan fakta. Dari reprsentasi ini , kita akan dapat memanipulasinya.
+      Contoh Implementasinya adalah Semantic Network, Script, Objects, Atrribute, dan Values (O-A-V Triplet).
+
+3.	Automated Reasoning
+      Penalaran otomatis yang menggunakan informasi untuk membantu memecahkan masalah ,menarik suatu kesimpulan baru serta menjawab pertanyaan – pertanyaan yang membutuhkan penalaran. Contohnya antara lain yaitu Logika pemrograman dan  Aljabar komputer deduktif.
+
+4.	Machine Learning
+      Machine Learning adalah ilmu computer yang mempelajari bagaimana membuat komputer atau sebuah mesin itu mempunyai suatu kecerdasan . Contoh pengimplementasinya adalah mengidentifikasi wajah, fingerprint recognizing.
+
+5.	Computer Vision
+    Computer Vision didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari bagaiamana komputer dapat mengenali obyek yang diamati. Dalam hal ini berarti bahwa mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu . Computer Vision adalah kombinasi antara Pengolahan Citra dan Pengenalan Pola. Pengolahan Citra (Image Processing) merupan bidang yang berhubungan dengan proses transformasi citra/gambar (image). Proses ini bertujuan untuk mendapatkan kualitas citra yang lebih baik. Contoh dalam bidang medis yaitu data citra dalam bentuk x-ray , mikroskop, gambar ultrasonik dan gambar tomografi.
+
+6.	Robotika
+       Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot. Pengertian cerdas di sini sangat relatif, karena tergantung dari sisi mana sesorang memandang. Dalam aplikasi lain, AI juga dapat digunakan untuk membantu proses identifikasi model dari sistem robot, model lingkungan atau gangguan, model dari tugas robot (task) seperti membuat rencana trajektori, dan sebagainya. Dalam hal ini konsep AI tidak digunakan secara langsung (direct) ke dalam kontroler, namun lebih bersifat tak langsung (indirect). 
+Contohnya robot ASIMO ,robot ini memiliki sistem komputerisasi dan sensor-sensor yang dapat mengatur setiap gerakannya dan memungkinkan bertingkah laku seperti gerakan manusia. ASIMO dapat melangkah naik dan turun tangga, melambaikan tangan, melakukan langkah dansa, serta berbicara dalam berbagai bahasa.
+
+
+
+
